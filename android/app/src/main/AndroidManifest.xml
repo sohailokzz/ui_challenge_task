@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.remote_task">
    <application
-        android:label="remote_task"
+        android:label="Neural Trainer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
